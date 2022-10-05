@@ -1,0 +1,66 @@
+runtime: 4.50000(s)
+=
+pfm file saved in LFattNet_output/backgammon.pfm
+runtime: 4.46000(s)
+=
+pfm file saved in LFattNet_output/dots.pfm
+runtime: 4.46000(s)
+=
+pfm file saved in LFattNet_output/pyramids.pfm
+runtime: 4.46000(s)
+=
+pfm file saved in LFattNet_output/stripes.pfm
+runtime: 4.44000(s)
+=
+pfm file saved in LFattNet_output/boxes.pfm
+runtime: 4.45000(s)
+=
+pfm file saved in LFattNet_output/cotton.pfm
+runtime: 4.45000(s)
+=
+pfm file saved in LFattNet_output/dino.pfm
+runtime: 4.48000(s)
+=
+pfm file saved in LFattNet_output/sideboard.pfm
+Pre-trained Model average MSE*100 = 0.980234
+Pre-trained Model average Badpix0.07 = 2.736361
+**********backgammon**********
+Pre-trained Model average MSE*100 = 1.876647
+Pre-trained Model average Badpix0.07 = 2.305401
+Pre-trained Model average Badpix0.03 = 4.418398
+Pre-trained Model average Badpix0.01 = 15.657013
+**********dots**********
+Pre-trained Model average MSE*100 = 1.382490
+Pre-trained Model average Badpix0.07 = 1.361342
+Pre-trained Model average Badpix0.03 = 4.018526
+Pre-trained Model average Badpix0.01 = 20.911744
+**********pyramids**********
+Pre-trained Model average MSE*100 = 0.006398
+Pre-trained Model average Badpix0.07 = 0.271173
+Pre-trained Model average Badpix0.03 = 0.609063
+Pre-trained Model average Badpix0.01 = 3.662988
+**********stripes**********
+Pre-trained Model average MSE*100 = 0.306134
+Pre-trained Model average Badpix0.07 = 2.059624
+Pre-trained Model average Badpix0.03 = 6.339423
+Pre-trained Model average Badpix0.01 = 18.990289
+**********boxes**********
+Pre-trained Model average MSE*100 = 3.387363
+Pre-trained Model average Badpix0.07 = 10.972504
+Pre-trained Model average Badpix0.03 = 18.167198
+Pre-trained Model average Badpix0.01 = 37.173843
+**********cotton**********
+Pre-trained Model average MSE*100 = 0.315485
+Pre-trained Model average Badpix0.07 = 0.299873
+Pre-trained Model average Badpix0.03 = 1.149118
+Pre-trained Model average Badpix0.01 = 6.713760
+**********dino**********
+Pre-trained Model average MSE*100 = 0.095107
+Pre-trained Model average Badpix0.07 = 1.253422
+Pre-trained Model average Badpix0.03 = 3.533427
+Pre-trained Model average Badpix0.01 = 22.124705
+**********sideboard**********
+Pre-trained Model average MSE*100 = 0.472254
+Pre-trained Model average Badpix0.07 = 3.369549
+Pre-trained Model average Badpix0.03 = 8.158028
+Pre-trained Model average Badpix0.01 = 27.289487
